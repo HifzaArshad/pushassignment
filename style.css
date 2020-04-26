@@ -1,0 +1,94 @@
+/* table{
+
+    width: 500px; 
+    margin: 10px auto;
+    border-collapse: collapse;
+    
+
+}
+tr.even{
+
+    background-color: aqua;
+    
+}
+tr:hover{
+    background-color: blueviolet;
+}
+th,td{
+ border: 1px solid gray;
+padding: 10px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+form{
+
+          margin: 100px auto;
+           width: 600px;
+    
+}
+input{
+
+    padding: 10px;
+    margin: 5px auto;
+    font-size: 1em;
+}
+input:focus{
+        border-color: violet;
+}
+button{
+
+    background-color:green; 
+     font-size: 1em;
+    padding: 10px;
+    margin: 5px 200px 5px 5px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+legend{
+
+    font-weight: bold;
+    background-color: grey;
+    color: blue;
+    font-size: 1.3em;
+
+}
+.uk{
+    background-image: url("https://i.dlpng.com/static/png/3853513_preview.webp");    
+
+    background-size: 40px;
+     background-repeat: no-repeat; 
+     padding: 10px 10px 10px 50px;
+
+}
+.usa{
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbZHiO5EmiZs5TMEB8Z1ngZOTm7DNKPFo19VMl2W4EPGSqic6K&usqp=CAU");
+
+    background-size: 40px;
+    background-repeat: no-repeat; 
+    padding: 10px 10px 10px 50px;
+    
+}
+fieldset{
+    border-radius: 10px;
+    background-color: lightblue;
+}
+div{
+    text-align: center;
+}
